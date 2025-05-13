@@ -32,19 +32,19 @@ v)Package Diagram
 vi)Sequence Diagram
 
 # DIAGRAMS:
-# USECASE DIAGRAM
+## USECASE DIAGRAM
 
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/f18526d8-a0b2-4c76-83c4-863daf65897f)
 
 
 
-# CLASS DIAGRAM
+## CLASS DIAGRAM
 
 ![ClassDiagram1](https://github.com/user-attachments/assets/20b59e33-7225-4b02-83da-db913c6015d0)
 
 
 
-# ACTIVITY DIAGRAM
+## ACTIVITY DIAGRAM
 ![ActivityDiagram1](https://github.com/user-attachments/assets/0f0f8249-896e-49dc-9a24-83f5bf9ebbb3)
 
 
@@ -52,11 +52,11 @@ vi)Sequence Diagram
 ![CommunicationDiagram1](https://github.com/user-attachments/assets/64e7dc17-9b5f-478a-97b8-03fea3a98391)
 
 
-# PACKAGE DIAGRAM
+## PACKAGE DIAGRAM
 ![PackageDiagram1](https://github.com/user-attachments/assets/1f074054-fb75-4028-955a-c2314d44de59)
 
 
-# SEQUENCE DIAGRAM
+## SEQUENCE DIAGRAM
 
 ![SequenceDiagram1](https://github.com/user-attachments/assets/7cac4e39-05cf-43de-b62c-28c1ff3b54e6)
 
